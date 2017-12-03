@@ -1,2 +1,4 @@
 # NAS_AircraftCatapult
-Aircraft Catapult
+nas弹射器插件
+MIT协议
+智库团队
