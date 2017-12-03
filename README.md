@@ -1,4 +1,12 @@
-# NAS_AircraftCatapult
-nasµ¯ÉäÆ÷²å¼ş
-MITĞ­Òé
-ÖÇ¿âÍÅ¶Ó
+# Naval Artillery System Aircraft Catapult Plugin
+
+ ![](https://img.shields.io/badge/Status-Developing-brightgreen.svg?style=flat-square)
+ ![](https://img.shields.io/badge/Download-N/A-green.svg?style=flat-square)
+ ![](https://img.shields.io/badge/MOD_Version-N/A-orange.svg?style=flat-square)
+ ![](https://img.shields.io/badge/KSP_Version-N/A-blue.svg?style=flat-square)
+
+Naval Artillery System Aircraft Catapult Plugin is licensed under the MIT License.
+
+Kerwis team
+
+NASå¼¹å°„å™¨æ’ä»¶ MITåè®® æ™ºåº“å›¢é˜Ÿ
