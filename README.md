@@ -9,4 +9,4 @@ Naval Artillery System Aircraft Catapult Plugin is licensed under the MIT Licens
 
 Kerwis team
 
-NAS弹射器插件 MIT协议 智库团队
+NAS弹射器插件以MIT协议发布 智库团队
